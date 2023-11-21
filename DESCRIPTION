@@ -3,7 +3,7 @@ Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     person("first", "last", , "frankcecilweber@gmail.com", role = c("aut", "cre"),
-           comment = )
+           comment = c(ORCID - "YOUR ORCID ID")))
 
 Description: DAY-UMR is specifically made to show students their data, test for normality, create figures to the standards of the courses, and calculate the most accurate p-value. DAY-UMR consists of 4 key functions and they are meant to be done in a specific order. First by using Outlier_Detect the dataset will be created, then Check_Normal will help students identify what test should be used, next Test_Data will report a p value and help students interpret it in context, and finally Create_Figure will create a figure with designated titles for the student. The steps of the functions correlate with how students should analyze data.
 License: MIT + file LICENSE
