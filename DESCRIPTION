@@ -2,8 +2,8 @@ Package: DAY.UMR
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Frank", "Weber", , "frankcecilweber@gmail.com", "Kylie", "Van Dyke", , "jostvady@outlook.com", role = c("first author", "second author"),
+           comment = NA)
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
